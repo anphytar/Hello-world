@@ -1,3 +1,3 @@
 # Hello-world
 My test repository
-Just average
+Just average person
